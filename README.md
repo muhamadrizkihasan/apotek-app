@@ -15,7 +15,7 @@ Website belajar laravel di sekolah
     -   Login
     -   Logout
 -   Multi User
-    -   Staff TU
+    -   Admin
         -   Mengelola user (admin dan kasir)
         -   Mengelola data obat
         -   Mengelola data stok
